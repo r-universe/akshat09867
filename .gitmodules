@@ -8,3 +8,6 @@
 [submodule "grepreaper"]
 	path = grepreaper
 	url = https://github.com/akshat09867/grepreaper
+[submodule "rPandas"]
+	path = rPandas
+	url = https://github.com/akshat09867/rpandas
