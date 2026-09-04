@@ -5,6 +5,9 @@
 [submodule "DBmaps"]
 	path = DBmaps
 	url = https://github.com/akshat09867/dbmaps
+[submodule "awkreader"]
+	path = awkreader
+	url = https://github.com/cran/awkreader
 [submodule "grepreaper"]
 	path = grepreaper
 	url = https://github.com/akshat09867/grepreaper
